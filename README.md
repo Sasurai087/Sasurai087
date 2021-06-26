@@ -1,6 +1,6 @@
 ### Hello! My name is James - I also go by [Sasurai087][website]! 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fjohsako.xyz)](https://johsako.xyz)
+[![Website](https://img.shields.io/website?label=johsako.xyz&style=for-the-badge&url=https%3A%2F%2Fjohsako.xyz)](https://johsako.xyz)
 
 
 ## I'm a Learner, Communicator, Developer, and Gaming Enthusiast!
